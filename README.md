@@ -1,5 +1,5 @@
-Contao PoweredByContaoLink Extension
-====================================
+Contao Extension: PoweredByContaoLink
+=====================================
 
 Provides a special link to the contao website.
 
@@ -21,7 +21,7 @@ Compatibility
 -------------
 
 - min. version: Contao 2.9.5
-- max. version: Contao 3.0.0
+- max. version: Contao 3.0.x
 
 
 Dependency
